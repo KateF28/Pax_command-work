@@ -5,6 +5,12 @@ $theme-colors: (
  "primary": #0074d9,
  "success": #eee
  );
+ $border-radius:1.2rem;
+ $input-btn-padding-y: .375rem;
+ $input-btn-padding-x: 2rem;
+$border-radius-lg: 2rem;
+ $input-btn-padding-y-lg: .9rem;
+ $input-btn-padding-x-lg: 4rem;
 
 //Required
 @import "../node_modules/bootstrap/scss/functions";

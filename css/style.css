@@ -7266,6 +7266,12 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6; } }
 
 /* Scss Document */
+body {
+  padding-top: 12vh; }
+
 .fourimages {
   height: 96px;
   width: 96px; }
+
+.videobackimg {
+  height: 445px; }

@@ -7369,5 +7369,13 @@ body {
   width: 96px; }
 
 .videobackimg {
-  height: 445px; }
-
+  height: 445px;
+  }
+.container-video {
+  display: block;
+  z-index: 1;
+  margin-left: 200px;
+}
+.img-laptop {
+  background-image: url("../images/laptop.jpg");
+}
